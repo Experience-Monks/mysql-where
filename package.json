@@ -1,6 +1,6 @@
 {
   "name": "mysql-where",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to create clean WHERE statements from an object (similar to mongodb syntax) using the mysql node library",
   "main": "index.js",
   "license": "MIT",
