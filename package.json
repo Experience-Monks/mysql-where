@@ -27,10 +27,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/njam3/mysql-where.git"
+    "url": "git://github.com/Jam3/mysql-where.git"
   },
-  "homepage": "https://github.com/njam3/mysql-where",
+  "homepage": "https://github.com/Jam3/mysql-where",
   "bugs": {
-    "url": "https://github.com/njam3/mysql-where/issues"
+    "url": "https://github.com/Jam3/mysql-where/issues"
   }
 }

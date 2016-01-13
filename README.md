@@ -47,4 +47,4 @@ db.query('SELECT * FROM table WHERE '+createWhere({
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/njam3/mysql-where/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/Jam3/mysql-where/blob/master/LICENSE.md) for details.
