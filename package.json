@@ -1,0 +1,36 @@
+{
+  "name": "mysql-where",
+  "version": "1.0.0",
+  "description": "A utility to create clean WHERE statements from an object (similar to mongodb syntax) using the mysql node library",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Nick Poisson",
+    "email": "nick@jam3.com",
+    "url": "https://github.com/njam3"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "mysql": "^2.10.2"
+  },
+  "scripts": {
+    "test": "node test/"
+  },
+  "keywords": [
+    "mysql,",
+    "where,",
+    "clean,",
+    "statement,",
+    "node",
+    "escape"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/njam3/mysql-where.git"
+  },
+  "homepage": "https://github.com/njam3/mysql-where",
+  "bugs": {
+    "url": "https://github.com/njam3/mysql-where/issues"
+  }
+}
